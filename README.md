@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J.Elena</h1>
+<h1 align="center">Hi 👋, I'm Elena</h1>
 <h3 align="center">Tester y Aprendiz de ciberseguridad</h3>
 
 <h3 align="left">Connect with me:</h3>
